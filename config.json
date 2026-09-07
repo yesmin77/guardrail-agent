@@ -1,0 +1,11 @@
+{
+  "max_order_usdt": 10,
+  "allowed_assets": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "BNBUSDT"
+  ],
+  "mode": "SPOT",
+  "human_confirmation_required": true,
+  "block_on_policy_failure": true
+}
