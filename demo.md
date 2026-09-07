@@ -34,3 +34,12 @@ GuardRail demonstrates that a market opportunity does not automatically become p
 **AI approval ≠ execution permission.**
 
 GuardRail keeps policy enforcement and human control between the trading request and execution.
+## 📸 Demo Evidence
+
+### Test 1 — $50 BTCUSDT
+
+![GuardRail $50 Blocked](Screenshot_20260907-204014_Google.png)
+
+### Test 2 — $10 BTCUSDT
+
+![GuardRail $10 Approved](Screenshot_20260907-204024_Google.png)
