@@ -40,7 +40,8 @@ APPROVED / BLOCKED
      ↓
 Human Confirmation
      ↓
-Order🛡️ Safety Checks
+Order
+## 🔄 🛡️ Safety Checks
 💰 Capital limit
 🪙 Allowed assets
 📊 Trading mode
@@ -51,14 +52,14 @@ If a mandatory rule fails:
 🔴 BLOCKED
 If all mandatory rules pass:
 🟢 APPROVED FOR HUMAN CONFIRMATION
-🧪 Demo
+## 🔄 Demo
 BUY BTCUSDT — $50 USDT — Spot
 Maximum order: $10 USDT
 Result:
 🔴 BLOCKED
 Reason: The requested amount exceeds the maximum order limit.
 NO ORDER SENT.
-📋 Default Policy
+## 🔄 📋 Default Policy
 Rule
 Setting
 Maximum order
@@ -71,7 +72,7 @@ Human confirmation
 Required
 Failed rule
 BLOCK
-🔐 Safety Principles
+## 🔄 🔐 Safety Principles
 GuardRail never:
 Invents market or account data
 Fabricates balances or positions
@@ -79,19 +80,19 @@ Claims execution without Binance confirmation
 Bypasses failed safety rules
 Executes without explicit human confirmation
 Unavailable data is marked UNVERIFIED, not assumed.
-🎯 Why GuardRail?
+## 🔄 🎯 Why GuardRail?
 Most trading agents ask:
 “Should I trade?”
 GuardRail asks:
 “Is this trade allowed under my rules?”
 This creates a controlled and explainable safety layer between an AI request and trade execution.
-👤 Human-in-the-Loop
+## 🔄 👤 Human-in-the-Loop
 Even when all policy checks pass, the user must explicitly confirm before execution.
 AI approval ≠ permission to execute.
-🧩 Binance Agent OS
+## 🔄 🧩 Binance Agent OS
 GuardRail is designed for Binance Agent OS and its MCP interface.
 Available Binance data is used as evidence for policy and risk validation.
-🏗️ Project Status
+## 🔄 🏗️ Project Status
 Binance Agent OS Mini Hackathon 2026 — Track A
 Focus:
 Binance Agent OS / MCP
@@ -100,7 +101,7 @@ Risk validation
 Market-data checks
 Human confirmation
 Explainable decisions
-⚠️ Disclaimer
+## 🔄 ⚠️ Disclaimer
 GuardRail is a prototype for demonstration and research purposes.
 It is a safety and policy-control system and does not guarantee trading profits or provide personalized financial advice.
 Always review and confirm any trading action before execution.
